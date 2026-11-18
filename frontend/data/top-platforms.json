@@ -1,0 +1,32 @@
+{
+  "slots": [
+    {
+      "slotNumber": 1,
+      "gameSlug": "yono-vip",
+      "gameId": "",
+      "badge": "🏆 #1 TOP CHOICE",
+      "subtitle": "Most Popular Experience",
+      "rating": "9.9",
+      "highlights": ["⚡ Instant UPI", "🛡️ 100% Secure RNG", "🎧 24/7 VIP Support", "🎁 ₹500 Bonus"]
+    },
+    {
+      "slotNumber": 2,
+      "gameSlug": "spin-crush",
+      "gameId": "",
+      "badge": "🥈 #2 RECOMMENDED",
+      "subtitle": "Trusted Starting Platform",
+      "rating": "9.7",
+      "highlights": ["⚡ Instant Withdrawal", "🛡️ 100% Secure RNG", "🎁 ₹500 Bonus", "🎮 Real Players"]
+    },
+    {
+      "slotNumber": 3,
+      "gameSlug": "cash-rummy",
+      "gameId": "",
+      "badge": "🥉 #3 TOP REWARD",
+      "subtitle": "High Bonus Alternative",
+      "rating": "9.6",
+      "highlights": ["⚡ Low ₹100 Min Cashout", "🛡️ Verified Payouts", "🎁 ₹500 Bonus", "⭐ Top Rated"]
+    }
+  ]
+}
+
